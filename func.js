@@ -3,6 +3,7 @@ function add(x, y) {
  }
    
  function subtract(x, y) {
+    add(5,4);
     return x - y;
  }
    
